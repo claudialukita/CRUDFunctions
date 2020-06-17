@@ -1,0 +1,26 @@
+[
+{
+  "id": "1",
+  "singer": "Rex Orange County",
+  "album": " Apricot Princess",
+  "song": "Happiness",
+  "genre": "Pop",
+  "release": "2017"
+},
+{
+  "id": "2",
+  "singer": "Rex Orange County",
+  "album": " Apricot Princess",
+  "song": "Television / So Far So Good",
+  "genre": "Pop",
+  "release": "2017"
+},
+{
+  "id": "3",
+  "singer": "Rex Orange County",
+  "album": " Apricot Princess",
+  "song": "Nothing",
+  "genre": "Indie Pop",
+  "release": "2017"
+}
+]
